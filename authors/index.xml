@@ -1,25 +1,303 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <title>Authors | Sinan Aksoy</title>
+    <link>www.sinanaksoy.com/authors/</link>
+      <atom:link href="www.sinanaksoy.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>www.sinanaksoy.com/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>www.sinanaksoy.com/authors/</link>
     </image>
     
     <item>
+      <title>Kathleen Nowak</title>
+      <link>www.sinanaksoy.com/authors/kathleen-nowak/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/kathleen-nowak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sinan G. Aksoy</title>
+      <link>www.sinanaksoy.com/authors/sinan-g.-aksoy/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/sinan-g.-aksoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen J. Young</title>
+      <link>www.sinanaksoy.com/authors/stephen-j.-young/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/stephen-j.-young/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brenda Praggastis</title>
+      <link>www.sinanaksoy.com/authors/brenda-praggastis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/brenda-praggastis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlos Ortiz Marrero</title>
+      <link>www.sinanaksoy.com/authors/carlos-ortiz-marrero/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/carlos-ortiz-marrero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cliff Joslyn</title>
+      <link>www.sinanaksoy.com/authors/cliff-joslyn/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/cliff-joslyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emilie Purvine</title>
+      <link>www.sinanaksoy.com/authors/emilie-purvine/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/emilie-purvine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kathleen E. Nowak</title>
+      <link>www.sinanaksoy.com/authors/kathleen-e.-nowak/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/kathleen-e.-nowak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fan Chung</title>
+      <link>www.sinanaksoy.com/authors/fan-chung/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/fan-chung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josh Tobin</title>
+      <link>www.sinanaksoy.com/authors/josh-tobin/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/josh-tobin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Tait</title>
+      <link>www.sinanaksoy.com/authors/michael-tait/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/michael-tait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christopher Lightsey</title>
+      <link>www.sinanaksoy.com/authors/christopher-lightsey/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/christopher-lightsey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Mentgen</title>
+      <link>www.sinanaksoy.com/authors/david-mentgen/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/david-mentgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugh Medal</title>
+      <link>www.sinanaksoy.com/authors/hugh-medal/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/hugh-medal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Louis Jenkins</title>
+      <link>www.sinanaksoy.com/authors/louis-jenkins/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/louis-jenkins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcin Zalewski</title>
+      <link>www.sinanaksoy.com/authors/marcin-zalewski/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/marcin-zalewski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Harun</title>
+      <link>www.sinanaksoy.com/authors/sarah-harun/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/sarah-harun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sinan Aksoy</title>
+      <link>www.sinanaksoy.com/authors/sinan-aksoy/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/sinan-aksoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tanveer Bhuiyan</title>
+      <link>www.sinanaksoy.com/authors/tanveer-bhuiyan/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/tanveer-bhuiyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timothy Stavenger</title>
+      <link>www.sinanaksoy.com/authors/timothy-stavenger/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/timothy-stavenger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eduardo Cotilla-Sanchez</title>
+      <link>www.sinanaksoy.com/authors/eduardo-cotilla-sanchez/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/eduardo-cotilla-sanchez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mahantesh Halappanavar</title>
+      <link>www.sinanaksoy.com/authors/mahantesh-halappanavar/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/mahantesh-halappanavar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Robinson</title>
+      <link>www.sinanaksoy.com/authors/michael-robinson/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/michael-robinson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ali Pinar</title>
+      <link>www.sinanaksoy.com/authors/ali-pinar/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/ali-pinar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tamara G. Kolda</title>
+      <link>www.sinanaksoy.com/authors/tamara-g.-kolda/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/tamara-g.-kolda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xing Peng</title>
+      <link>www.sinanaksoy.com/authors/xing-peng/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/xing-peng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul Horn</title>
+      <link>www.sinanaksoy.com/authors/paul-horn/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/paul-horn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Azzam</title>
+      <link>www.sinanaksoy.com/authors/adam-azzam/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/adam-azzam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaya Coppersmith</title>
+      <link>www.sinanaksoy.com/authors/chaya-coppersmith/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/chaya-coppersmith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gizem Karaali</title>
+      <link>www.sinanaksoy.com/authors/gizem-karaali/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/gizem-karaali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julie Glass</title>
+      <link>www.sinanaksoy.com/authors/julie-glass/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/julie-glass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xinjing Zhu</title>
+      <link>www.sinanaksoy.com/authors/xinjing-zhu/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/xinjing-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xueying Zhao</title>
+      <link>www.sinanaksoy.com/authors/xueying-zhao/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/xueying-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexander Adam Azzam</title>
+      <link>www.sinanaksoy.com/authors/alexander-adam-azzam/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/alexander-adam-azzam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sam Nelson</title>
+      <link>www.sinanaksoy.com/authors/sam-nelson/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/authors/sam-nelson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>www.sinanaksoy.com/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <guid>www.sinanaksoy.com/authors/admin/</guid>
+      <description>&lt;p&gt;Sinan Aksoy is a discrete mathematician specializing in graph theory and network science. In addition to his theoretical research in spectral and extremal graph theory, he also in interested in applying graph theoretic methods to study complex systems arising from social networks, power and communication systems, and cyber security. In these domains, his work focuses on developing methodologies that draw from probability, statistics, and combinatorics.&lt;/p&gt;
 </description>
     </item>
     

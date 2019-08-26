@@ -1,16 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Academic</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags | Sinan Aksoy</title>
+    <link>www.sinanaksoy.com/tags/</link>
+      <atom:link href="www.sinanaksoy.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>www.sinanaksoy.com/img/icon-192.png</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>www.sinanaksoy.com/tags/</link>
     </image>
+    
+    <item>
+      <title>graph similarity</title>
+      <link>www.sinanaksoy.com/tags/graph-similarity/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/tags/graph-similarity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cyber security</title>
+      <link>www.sinanaksoy.com/tags/cyber-security/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/tags/cyber-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph generation</title>
+      <link>www.sinanaksoy.com/tags/graph-generation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/tags/graph-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hypergraphs</title>
+      <link>www.sinanaksoy.com/tags/hypergraphs/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/tags/hypergraphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markov chains</title>
+      <link>www.sinanaksoy.com/tags/markov-chains/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/tags/markov-chains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spectral graph theory</title>
+      <link>www.sinanaksoy.com/tags/spectral-graph-theory/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/tags/spectral-graph-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>power grid</title>
+      <link>www.sinanaksoy.com/tags/power-grid/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/tags/power-grid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>topology</title>
+      <link>www.sinanaksoy.com/tags/topology/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/tags/topology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>directed graphs</title>
+      <link>www.sinanaksoy.com/tags/directed-graphs/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/tags/directed-graphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game theory</title>
+      <link>www.sinanaksoy.com/tags/game-theory/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/tags/game-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>knot theory</title>
+      <link>www.sinanaksoy.com/tags/knot-theory/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/tags/knot-theory/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

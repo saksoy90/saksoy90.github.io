@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tamara G. Kolda | Sinan Aksoy</title>
+    <link>www.sinanaksoy.com/authors/tamara-g.-kolda/</link>
+      <atom:link href="www.sinanaksoy.com/authors/tamara-g.-kolda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tamara G. Kolda</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>www.sinanaksoy.com/img/icon-192.png</url>
+      <title>Tamara G. Kolda</title>
+      <link>www.sinanaksoy.com/authors/tamara-g.-kolda/</link>
+    </image>
+    
+    <item>
+      <title>Measuring and modeling bipartite graphs with community structure</title>
+      <link>www.sinanaksoy.com/publication/aksoy-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/publication/aksoy-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

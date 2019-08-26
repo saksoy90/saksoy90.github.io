@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emilie Purvine | Sinan Aksoy</title>
+    <link>www.sinanaksoy.com/authors/emilie-purvine/</link>
+      <atom:link href="www.sinanaksoy.com/authors/emilie-purvine/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emilie Purvine</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>www.sinanaksoy.com/img/icon-192.png</url>
+      <title>Emilie Purvine</title>
+      <link>www.sinanaksoy.com/authors/emilie-purvine/</link>
+    </image>
+    
+    <item>
+      <title>Hypernetwork Science via High-Order Hypergraph Walks</title>
+      <link>www.sinanaksoy.com/publication/aksoy-2019-b/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/publication/aksoy-2019-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relative Hausdorff Distance for Network Analysis</title>
+      <link>www.sinanaksoy.com/publication/aksoy-2019-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/publication/aksoy-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A generative graph model for electrical infrastructure networks</title>
+      <link>www.sinanaksoy.com/publication/aksoy-2018-a/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/publication/aksoy-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Topological Approach to Representational Data Models</title>
+      <link>www.sinanaksoy.com/publication/purvine-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>www.sinanaksoy.com/publication/purvine-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
