@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Louis Jenkins | Sinan Aksoy</title>
-    <link>saksoy90.github.io/authors/louis-jenkins/</link>
-      <atom:link href="saksoy90.github.io/authors/louis-jenkins/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/louis-jenkins/</link>
+      <atom:link href="/authors/louis-jenkins/index.xml" rel="self" type="application/rss+xml" />
     <description>Louis Jenkins</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>saksoy90.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Louis Jenkins</title>
-      <link>saksoy90.github.io/authors/louis-jenkins/</link>
+      <link>/authors/louis-jenkins/</link>
     </image>
     
     <item>
       <title>Chapel HyperGraph Library (CHGL)</title>
-      <link>saksoy90.github.io/publication/jenkins-2018/</link>
+      <link>/publication/jenkins-2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>saksoy90.github.io/publication/jenkins-2018/</guid>
+      <guid>/publication/jenkins-2018/</guid>
       <description></description>
     </item>
     

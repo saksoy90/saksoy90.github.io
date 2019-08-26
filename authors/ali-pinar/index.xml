@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ali Pinar | Sinan Aksoy</title>
-    <link>saksoy90.github.io/authors/ali-pinar/</link>
-      <atom:link href="saksoy90.github.io/authors/ali-pinar/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/ali-pinar/</link>
+      <atom:link href="/authors/ali-pinar/index.xml" rel="self" type="application/rss+xml" />
     <description>Ali Pinar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>saksoy90.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Ali Pinar</title>
-      <link>saksoy90.github.io/authors/ali-pinar/</link>
+      <link>/authors/ali-pinar/</link>
     </image>
     
     <item>
       <title>Measuring and modeling bipartite graphs with community structure</title>
-      <link>saksoy90.github.io/publication/aksoy-2017/</link>
+      <link>/publication/aksoy-2017/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>saksoy90.github.io/publication/aksoy-2017/</guid>
+      <guid>/publication/aksoy-2017/</guid>
       <description></description>
     </item>
     

@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sinan Aksoy</title>
-    <link>saksoy90.github.io/authors/sinan-aksoy/</link>
-      <atom:link href="saksoy90.github.io/authors/sinan-aksoy/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/sinan-aksoy/</link>
+      <atom:link href="/authors/sinan-aksoy/index.xml" rel="self" type="application/rss+xml" />
     <description>Sinan Aksoy</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>saksoy90.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Sinan Aksoy</title>
-      <link>saksoy90.github.io/authors/sinan-aksoy/</link>
+      <link>/authors/sinan-aksoy/</link>
     </image>
     
     <item>
       <title>Chapel HyperGraph Library (CHGL)</title>
-      <link>saksoy90.github.io/publication/jenkins-2018/</link>
+      <link>/publication/jenkins-2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>saksoy90.github.io/publication/jenkins-2018/</guid>
+      <guid>/publication/jenkins-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Topological Approach to Representational Data Models</title>
-      <link>saksoy90.github.io/publication/purvine-2018/</link>
+      <link>/publication/purvine-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>saksoy90.github.io/publication/purvine-2018/</guid>
+      <guid>/publication/purvine-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extreme values of the stationary distribution of random walks on directed graphs</title>
-      <link>saksoy90.github.io/publication/aksoy-2016/</link>
+      <link>/publication/aksoy-2016/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>saksoy90.github.io/publication/aksoy-2016/</guid>
+      <guid>/publication/aksoy-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graphs with Many Strong Orientations</title>
-      <link>saksoy90.github.io/publication/aksoy-2016-a/</link>
+      <link>/publication/aksoy-2016-a/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>saksoy90.github.io/publication/aksoy-2016-a/</guid>
+      <guid>/publication/aksoy-2016-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coalitions and cliques in the school choice problem</title>
-      <link>saksoy90.github.io/publication/aksoy-2015/</link>
+      <link>/publication/aksoy-2015/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>saksoy90.github.io/publication/aksoy-2015/</guid>
+      <guid>/publication/aksoy-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bikei, Involutory Biracks and Unoriented Link Invariants</title>
-      <link>saksoy90.github.io/publication/aksoy-2012/</link>
+      <link>/publication/aksoy-2012/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>saksoy90.github.io/publication/aksoy-2012/</guid>
+      <guid>/publication/aksoy-2012/</guid>
       <description></description>
     </item>
     

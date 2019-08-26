@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carlos Ortiz Marrero | Sinan Aksoy</title>
-    <link>saksoy90.github.io/authors/carlos-ortiz-marrero/</link>
-      <atom:link href="saksoy90.github.io/authors/carlos-ortiz-marrero/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/carlos-ortiz-marrero/</link>
+      <atom:link href="/authors/carlos-ortiz-marrero/index.xml" rel="self" type="application/rss+xml" />
     <description>Carlos Ortiz Marrero</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>saksoy90.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Carlos Ortiz Marrero</title>
-      <link>saksoy90.github.io/authors/carlos-ortiz-marrero/</link>
+      <link>/authors/carlos-ortiz-marrero/</link>
     </image>
     
     <item>
       <title>Hypernetwork Science via High-Order Hypergraph Walks</title>
-      <link>saksoy90.github.io/publication/aksoy-2019-b/</link>
+      <link>/publication/aksoy-2019-b/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>saksoy90.github.io/publication/aksoy-2019-b/</guid>
+      <guid>/publication/aksoy-2019-b/</guid>
       <description></description>
     </item>
     

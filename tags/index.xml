@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Sinan Aksoy</title>
-    <link>saksoy90.github.io/tags/</link>
-      <atom:link href="saksoy90.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>saksoy90.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Tags</title>
-      <link>saksoy90.github.io/tags/</link>
+      <link>/tags/</link>
     </image>
     
     <item>
       <title>graph similarity</title>
-      <link>saksoy90.github.io/tags/graph-similarity/</link>
+      <link>/tags/graph-similarity/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>saksoy90.github.io/tags/graph-similarity/</guid>
+      <guid>/tags/graph-similarity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cyber security</title>
-      <link>saksoy90.github.io/tags/cyber-security/</link>
+      <link>/tags/cyber-security/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>saksoy90.github.io/tags/cyber-security/</guid>
+      <guid>/tags/cyber-security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>graph generation</title>
-      <link>saksoy90.github.io/tags/graph-generation/</link>
+      <link>/tags/graph-generation/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>saksoy90.github.io/tags/graph-generation/</guid>
+      <guid>/tags/graph-generation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hypergraphs</title>
-      <link>saksoy90.github.io/tags/hypergraphs/</link>
+      <link>/tags/hypergraphs/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>saksoy90.github.io/tags/hypergraphs/</guid>
+      <guid>/tags/hypergraphs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markov chains</title>
-      <link>saksoy90.github.io/tags/markov-chains/</link>
+      <link>/tags/markov-chains/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>saksoy90.github.io/tags/markov-chains/</guid>
+      <guid>/tags/markov-chains/</guid>
       <description></description>
     </item>
     
     <item>
       <title>spectral graph theory</title>
-      <link>saksoy90.github.io/tags/spectral-graph-theory/</link>
+      <link>/tags/spectral-graph-theory/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>saksoy90.github.io/tags/spectral-graph-theory/</guid>
+      <guid>/tags/spectral-graph-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>power grid</title>
-      <link>saksoy90.github.io/tags/power-grid/</link>
+      <link>/tags/power-grid/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>saksoy90.github.io/tags/power-grid/</guid>
+      <guid>/tags/power-grid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>topology</title>
-      <link>saksoy90.github.io/tags/topology/</link>
+      <link>/tags/topology/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>saksoy90.github.io/tags/topology/</guid>
+      <guid>/tags/topology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>directed graphs</title>
-      <link>saksoy90.github.io/tags/directed-graphs/</link>
+      <link>/tags/directed-graphs/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>saksoy90.github.io/tags/directed-graphs/</guid>
+      <guid>/tags/directed-graphs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>game theory</title>
-      <link>saksoy90.github.io/tags/game-theory/</link>
+      <link>/tags/game-theory/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>saksoy90.github.io/tags/game-theory/</guid>
+      <guid>/tags/game-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>knot theory</title>
-      <link>saksoy90.github.io/tags/knot-theory/</link>
+      <link>/tags/knot-theory/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>saksoy90.github.io/tags/knot-theory/</guid>
+      <guid>/tags/knot-theory/</guid>
       <description></description>
     </item>
     
