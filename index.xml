@@ -2,125 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sinan Aksoy</title>
-    <link>www.sinanaksoy.com/</link>
-      <atom:link href="www.sinanaksoy.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>saksoy90.github.io/</link>
+      <atom:link href="saksoy90.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sinan Aksoy</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>www.sinanaksoy.com/img/icon-192.png</url>
+      <url>saksoy90.github.io/img/icon-192.png</url>
       <title>Sinan Aksoy</title>
-      <link>www.sinanaksoy.com/</link>
+      <link>saksoy90.github.io/</link>
     </image>
     
     <item>
       <title>A linear-time algorithm and analysis of graph Relative Hausdorff distance</title>
-      <link>www.sinanaksoy.com/publication/aksoy-2019/</link>
+      <link>saksoy90.github.io/publication/aksoy-2019/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-2019/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hypernetwork Science via High-Order Hypergraph Walks</title>
-      <link>www.sinanaksoy.com/publication/aksoy-2019-b/</link>
+      <link>saksoy90.github.io/publication/aksoy-2019-b/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-2019-b/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-2019-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relative Hausdorff Distance for Network Analysis</title>
-      <link>www.sinanaksoy.com/publication/aksoy-2019-a/</link>
+      <link>saksoy90.github.io/publication/aksoy-2019-a/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-2019-a/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-2019-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The maximum relaxation time of a random walk</title>
-      <link>www.sinanaksoy.com/publication/aksoy-2018/</link>
+      <link>saksoy90.github.io/publication/aksoy-2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-2018/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapel HyperGraph Library (CHGL)</title>
-      <link>www.sinanaksoy.com/publication/jenkins-2018/</link>
+      <link>saksoy90.github.io/publication/jenkins-2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/jenkins-2018/</guid>
+      <guid>saksoy90.github.io/publication/jenkins-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A generative graph model for electrical infrastructure networks</title>
-      <link>www.sinanaksoy.com/publication/aksoy-2018-a/</link>
+      <link>saksoy90.github.io/publication/aksoy-2018-a/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-2018-a/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-2018-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Topological Approach to Representational Data Models</title>
-      <link>www.sinanaksoy.com/publication/purvine-2018/</link>
+      <link>saksoy90.github.io/publication/purvine-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/purvine-2018/</guid>
+      <guid>saksoy90.github.io/publication/purvine-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring and modeling bipartite graphs with community structure</title>
-      <link>www.sinanaksoy.com/publication/aksoy-2017/</link>
+      <link>saksoy90.github.io/publication/aksoy-2017/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-2017/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Random walks on graphs and orientations of graphs</title>
-      <link>www.sinanaksoy.com/publication/aksoy-thesis/</link>
+      <link>saksoy90.github.io/publication/aksoy-thesis/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-thesis/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extreme values of the stationary distribution of random walks on directed graphs</title>
-      <link>www.sinanaksoy.com/publication/aksoy-2016/</link>
+      <link>saksoy90.github.io/publication/aksoy-2016/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-2016/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graphs with Many Strong Orientations</title>
-      <link>www.sinanaksoy.com/publication/aksoy-2016-a/</link>
+      <link>saksoy90.github.io/publication/aksoy-2016-a/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-2016-a/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-2016-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coalitions and cliques in the school choice problem</title>
-      <link>www.sinanaksoy.com/publication/aksoy-2015/</link>
+      <link>saksoy90.github.io/publication/aksoy-2015/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-2015/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>School Choice as a One-Sided Matching Problem: Cardinal Utilities and Optimization</title>
-      <link>www.sinanaksoy.com/publication/aksoy-2013/</link>
+      <link>saksoy90.github.io/publication/aksoy-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-2013/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bikei, Involutory Biracks and Unoriented Link Invariants</title>
-      <link>www.sinanaksoy.com/publication/aksoy-2012/</link>
+      <link>saksoy90.github.io/publication/aksoy-2012/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-2012/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-2012/</guid>
       <description></description>
     </item>
     

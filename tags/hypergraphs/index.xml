@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hypergraphs | Sinan Aksoy</title>
-    <link>www.sinanaksoy.com/tags/hypergraphs/</link>
-      <atom:link href="www.sinanaksoy.com/tags/hypergraphs/index.xml" rel="self" type="application/rss+xml" />
+    <link>saksoy90.github.io/tags/hypergraphs/</link>
+      <atom:link href="saksoy90.github.io/tags/hypergraphs/index.xml" rel="self" type="application/rss+xml" />
     <description>hypergraphs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>www.sinanaksoy.com/img/icon-192.png</url>
+      <url>saksoy90.github.io/img/icon-192.png</url>
       <title>hypergraphs</title>
-      <link>www.sinanaksoy.com/tags/hypergraphs/</link>
+      <link>saksoy90.github.io/tags/hypergraphs/</link>
     </image>
     
     <item>
       <title>Hypernetwork Science via High-Order Hypergraph Walks</title>
-      <link>www.sinanaksoy.com/publication/aksoy-2019-b/</link>
+      <link>saksoy90.github.io/publication/aksoy-2019-b/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-2019-b/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-2019-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapel HyperGraph Library (CHGL)</title>
-      <link>www.sinanaksoy.com/publication/jenkins-2018/</link>
+      <link>saksoy90.github.io/publication/jenkins-2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/jenkins-2018/</guid>
+      <guid>saksoy90.github.io/publication/jenkins-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Topological Approach to Representational Data Models</title>
-      <link>www.sinanaksoy.com/publication/purvine-2018/</link>
+      <link>saksoy90.github.io/publication/purvine-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/purvine-2018/</guid>
+      <guid>saksoy90.github.io/publication/purvine-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring and modeling bipartite graphs with community structure</title>
-      <link>www.sinanaksoy.com/publication/aksoy-2017/</link>
+      <link>saksoy90.github.io/publication/aksoy-2017/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-2017/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-2017/</guid>
       <description></description>
     </item>
     

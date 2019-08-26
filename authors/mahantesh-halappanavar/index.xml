@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mahantesh Halappanavar | Sinan Aksoy</title>
-    <link>www.sinanaksoy.com/authors/mahantesh-halappanavar/</link>
-      <atom:link href="www.sinanaksoy.com/authors/mahantesh-halappanavar/index.xml" rel="self" type="application/rss+xml" />
+    <link>saksoy90.github.io/authors/mahantesh-halappanavar/</link>
+      <atom:link href="saksoy90.github.io/authors/mahantesh-halappanavar/index.xml" rel="self" type="application/rss+xml" />
     <description>Mahantesh Halappanavar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>www.sinanaksoy.com/img/icon-192.png</url>
+      <url>saksoy90.github.io/img/icon-192.png</url>
       <title>Mahantesh Halappanavar</title>
-      <link>www.sinanaksoy.com/authors/mahantesh-halappanavar/</link>
+      <link>saksoy90.github.io/authors/mahantesh-halappanavar/</link>
     </image>
     
     <item>
       <title>A generative graph model for electrical infrastructure networks</title>
-      <link>www.sinanaksoy.com/publication/aksoy-2018-a/</link>
+      <link>saksoy90.github.io/publication/aksoy-2018-a/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-2018-a/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-2018-a/</guid>
       <description></description>
     </item>
     

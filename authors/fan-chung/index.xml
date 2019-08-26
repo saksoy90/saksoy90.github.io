@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fan Chung | Sinan Aksoy</title>
-    <link>www.sinanaksoy.com/authors/fan-chung/</link>
-      <atom:link href="www.sinanaksoy.com/authors/fan-chung/index.xml" rel="self" type="application/rss+xml" />
+    <link>saksoy90.github.io/authors/fan-chung/</link>
+      <atom:link href="saksoy90.github.io/authors/fan-chung/index.xml" rel="self" type="application/rss+xml" />
     <description>Fan Chung</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>www.sinanaksoy.com/img/icon-192.png</url>
+      <url>saksoy90.github.io/img/icon-192.png</url>
       <title>Fan Chung</title>
-      <link>www.sinanaksoy.com/authors/fan-chung/</link>
+      <link>saksoy90.github.io/authors/fan-chung/</link>
     </image>
     
     <item>
       <title>The maximum relaxation time of a random walk</title>
-      <link>www.sinanaksoy.com/publication/aksoy-2018/</link>
+      <link>saksoy90.github.io/publication/aksoy-2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-2018/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extreme values of the stationary distribution of random walks on directed graphs</title>
-      <link>www.sinanaksoy.com/publication/aksoy-2016/</link>
+      <link>saksoy90.github.io/publication/aksoy-2016/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-2016/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-2016/</guid>
       <description></description>
     </item>
     

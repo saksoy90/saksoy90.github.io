@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christopher Lightsey | Sinan Aksoy</title>
-    <link>www.sinanaksoy.com/authors/christopher-lightsey/</link>
-      <atom:link href="www.sinanaksoy.com/authors/christopher-lightsey/index.xml" rel="self" type="application/rss+xml" />
+    <link>saksoy90.github.io/authors/christopher-lightsey/</link>
+      <atom:link href="saksoy90.github.io/authors/christopher-lightsey/index.xml" rel="self" type="application/rss+xml" />
     <description>Christopher Lightsey</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>www.sinanaksoy.com/img/icon-192.png</url>
+      <url>saksoy90.github.io/img/icon-192.png</url>
       <title>Christopher Lightsey</title>
-      <link>www.sinanaksoy.com/authors/christopher-lightsey/</link>
+      <link>saksoy90.github.io/authors/christopher-lightsey/</link>
     </image>
     
     <item>
       <title>Chapel HyperGraph Library (CHGL)</title>
-      <link>www.sinanaksoy.com/publication/jenkins-2018/</link>
+      <link>saksoy90.github.io/publication/jenkins-2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/jenkins-2018/</guid>
+      <guid>saksoy90.github.io/publication/jenkins-2018/</guid>
       <description></description>
     </item>
     

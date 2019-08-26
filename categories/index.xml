@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Sinan Aksoy</title>
-    <link>www.sinanaksoy.com/categories/</link>
-      <atom:link href="www.sinanaksoy.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>saksoy90.github.io/categories/</link>
+      <atom:link href="saksoy90.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>www.sinanaksoy.com/img/icon-192.png</url>
+      <url>saksoy90.github.io/img/icon-192.png</url>
       <title>Categories</title>
-      <link>www.sinanaksoy.com/categories/</link>
+      <link>saksoy90.github.io/categories/</link>
     </image>
     
   </channel>

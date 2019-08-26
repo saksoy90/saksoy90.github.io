@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>graph generation | Sinan Aksoy</title>
-    <link>www.sinanaksoy.com/tags/graph-generation/</link>
-      <atom:link href="www.sinanaksoy.com/tags/graph-generation/index.xml" rel="self" type="application/rss+xml" />
+    <link>saksoy90.github.io/tags/graph-generation/</link>
+      <atom:link href="saksoy90.github.io/tags/graph-generation/index.xml" rel="self" type="application/rss+xml" />
     <description>graph generation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>www.sinanaksoy.com/img/icon-192.png</url>
+      <url>saksoy90.github.io/img/icon-192.png</url>
       <title>graph generation</title>
-      <link>www.sinanaksoy.com/tags/graph-generation/</link>
+      <link>saksoy90.github.io/tags/graph-generation/</link>
     </image>
     
     <item>
       <title>Hypernetwork Science via High-Order Hypergraph Walks</title>
-      <link>www.sinanaksoy.com/publication/aksoy-2019-b/</link>
+      <link>saksoy90.github.io/publication/aksoy-2019-b/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-2019-b/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-2019-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A generative graph model for electrical infrastructure networks</title>
-      <link>www.sinanaksoy.com/publication/aksoy-2018-a/</link>
+      <link>saksoy90.github.io/publication/aksoy-2018-a/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-2018-a/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-2018-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring and modeling bipartite graphs with community structure</title>
-      <link>www.sinanaksoy.com/publication/aksoy-2017/</link>
+      <link>saksoy90.github.io/publication/aksoy-2017/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-2017/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-2017/</guid>
       <description></description>
     </item>
     

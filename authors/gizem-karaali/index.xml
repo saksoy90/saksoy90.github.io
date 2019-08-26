@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gizem Karaali | Sinan Aksoy</title>
-    <link>www.sinanaksoy.com/authors/gizem-karaali/</link>
-      <atom:link href="www.sinanaksoy.com/authors/gizem-karaali/index.xml" rel="self" type="application/rss+xml" />
+    <link>saksoy90.github.io/authors/gizem-karaali/</link>
+      <atom:link href="saksoy90.github.io/authors/gizem-karaali/index.xml" rel="self" type="application/rss+xml" />
     <description>Gizem Karaali</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>www.sinanaksoy.com/img/icon-192.png</url>
+      <url>saksoy90.github.io/img/icon-192.png</url>
       <title>Gizem Karaali</title>
-      <link>www.sinanaksoy.com/authors/gizem-karaali/</link>
+      <link>saksoy90.github.io/authors/gizem-karaali/</link>
     </image>
     
     <item>
       <title>Coalitions and cliques in the school choice problem</title>
-      <link>www.sinanaksoy.com/publication/aksoy-2015/</link>
+      <link>saksoy90.github.io/publication/aksoy-2015/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-2015/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>School Choice as a One-Sided Matching Problem: Cardinal Utilities and Optimization</title>
-      <link>www.sinanaksoy.com/publication/aksoy-2013/</link>
+      <link>saksoy90.github.io/publication/aksoy-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-2013/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-2013/</guid>
       <description></description>
     </item>
     

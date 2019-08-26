@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paul Horn | Sinan Aksoy</title>
-    <link>www.sinanaksoy.com/authors/paul-horn/</link>
-      <atom:link href="www.sinanaksoy.com/authors/paul-horn/index.xml" rel="self" type="application/rss+xml" />
+    <link>saksoy90.github.io/authors/paul-horn/</link>
+      <atom:link href="saksoy90.github.io/authors/paul-horn/index.xml" rel="self" type="application/rss+xml" />
     <description>Paul Horn</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>www.sinanaksoy.com/img/icon-192.png</url>
+      <url>saksoy90.github.io/img/icon-192.png</url>
       <title>Paul Horn</title>
-      <link>www.sinanaksoy.com/authors/paul-horn/</link>
+      <link>saksoy90.github.io/authors/paul-horn/</link>
     </image>
     
     <item>
       <title>Graphs with Many Strong Orientations</title>
-      <link>www.sinanaksoy.com/publication/aksoy-2016-a/</link>
+      <link>saksoy90.github.io/publication/aksoy-2016-a/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>www.sinanaksoy.com/publication/aksoy-2016-a/</guid>
+      <guid>saksoy90.github.io/publication/aksoy-2016-a/</guid>
       <description></description>
     </item>
     
