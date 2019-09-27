@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Sinan Aksoy</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Aug 2019 20:56:27 -0700</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>CHGL</title>
+      <link>/project/chgl/</link>
+      <pubDate>Mon, 26 Aug 2019 20:56:27 -0700</pubDate>
+      <guid>/project/chgl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HNX</title>
+      <link>/project/hnx/</link>
+      <pubDate>Mon, 26 Aug 2019 20:56:27 -0700</pubDate>
+      <guid>/project/hnx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
