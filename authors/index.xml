@@ -5,12 +5,36 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Mark Kempton</title>
+      <link>/authors/mark-kempton/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/mark-kempton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sinan G. Aksoy</title>
+      <link>/authors/sinan-g.-aksoy/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/sinan-g.-aksoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen J. Young</title>
+      <link>/authors/stephen-j.-young/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/stephen-j.-young/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mark Raugas</title>
@@ -25,22 +49,6 @@
       <link>/authors/paul-bruillard/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/authors/paul-bruillard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sinan G. Aksoy</title>
-      <link>/authors/sinan-g.-aksoy/</link>
-      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/sinan-g.-aksoy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stephen J. Young</title>
-      <link>/authors/stephen-j.-young/</link>
-      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/stephen-j.-young/</guid>
       <description></description>
     </item>
     
