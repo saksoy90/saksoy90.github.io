@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>hypergraphs</title>
+      <link>/tags/hypergraphs/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/hypergraphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>spectral graph theory</title>
       <link>/tags/spectral-graph-theory/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/tags/spectral-graph-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph generation</title>
+      <link>/tags/graph-generation/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/graph-generation/</guid>
       <description></description>
     </item>
     
@@ -33,22 +49,6 @@
       <link>/tags/cyber-security/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/tags/cyber-security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>graph generation</title>
-      <link>/tags/graph-generation/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/graph-generation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hypergraphs</title>
-      <link>/tags/hypergraphs/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/hypergraphs/</guid>
       <description></description>
     </item>
     

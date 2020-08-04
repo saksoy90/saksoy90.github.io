@@ -5,12 +5,28 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Hypergraph Random Walks, Laplacians, and Clustering</title>
+      <link>/publication/hayashi-2020-hypergraph/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/hayashi-2020-hypergraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypernetwork Science via High-Order Hypergraph Walks</title>
+      <link>/publication/aksoy-2019-b/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/aksoy-2019-b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Spectral Threshold for Extremal Cyclic Edge-Connectivity</title>
@@ -33,14 +49,6 @@
       <link>/publication/aksoy-2019/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       <guid>/publication/aksoy-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hypernetwork Science via High-Order Hypergraph Walks</title>
-      <link>/publication/aksoy-2019-b/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/aksoy-2019-b/</guid>
       <description></description>
     </item>
     

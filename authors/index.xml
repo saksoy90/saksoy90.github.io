@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,18 +13,82 @@
     </image>
     
     <item>
-      <title>Mark Kempton</title>
-      <link>/authors/mark-kempton/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/mark-kempton/</guid>
+      <title>Cheong Hee Park</title>
+      <link>/authors/cheong-hee-park/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/cheong-hee-park/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haesun Park</title>
+      <link>/authors/haesun-park/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/haesun-park/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Koby Hayashi</title>
+      <link>/authors/koby-hayashi/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/koby-hayashi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sinan G Aksoy</title>
+      <link>/authors/sinan-g-aksoy/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/sinan-g-aksoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brenda Praggastis</title>
+      <link>/authors/brenda-praggastis/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/brenda-praggastis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlos Ortiz Marrero</title>
+      <link>/authors/carlos-ortiz-marrero/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/carlos-ortiz-marrero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cliff Joslyn</title>
+      <link>/authors/cliff-joslyn/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/cliff-joslyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emilie Purvine</title>
+      <link>/authors/emilie-purvine/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/emilie-purvine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sinan G. Aksoy</title>
       <link>/authors/sinan-g.-aksoy/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/authors/sinan-g.-aksoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Kempton</title>
+      <link>/authors/mark-kempton/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/mark-kempton/</guid>
       <description></description>
     </item>
     
@@ -57,38 +121,6 @@
       <link>/authors/kathleen-nowak/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       <guid>/authors/kathleen-nowak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brenda Praggastis</title>
-      <link>/authors/brenda-praggastis/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/brenda-praggastis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Carlos Ortiz Marrero</title>
-      <link>/authors/carlos-ortiz-marrero/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/carlos-ortiz-marrero/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cliff Joslyn</title>
-      <link>/authors/cliff-joslyn/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/cliff-joslyn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Emilie Purvine</title>
-      <link>/authors/emilie-purvine/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/emilie-purvine/</guid>
       <description></description>
     </item>
     

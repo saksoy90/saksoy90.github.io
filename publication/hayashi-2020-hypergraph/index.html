@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="We propose high-order hypergraph walks as a framework to generalize graph-based network science techniques to hypergraphs. Edge incidence in hypergraphs is quantitative, yielding hypergraph walks with both length and width. Graph methods which then generalize to hypergraphs include connected component analyses, graph distance-based metrics such as closeness centrality, and motif-based measures such as clustering coefficients. We apply high-order analogs of these methods to real world hypernetworks, and show they reveal nuanced and interpretable structure that cannot be detected by graph-based methods. Lastly, we apply three generative models to the data and find that basic hypergraph properties, such as density and degree distributions, do not necessarily control these new structural measurements. Our work demonstrates how analyses of hypergraph-structured data are richer when utilizing tools tailored to capture hypergraph-native phenomena, and suggests one possible avenue towards that end.">
+  <meta name="description" content="We propose a flexible framework for clustering hypergraph-structured data based on recently proposed random walks utilizing edge-dependent vertex weights. When incorporating edge-dependent vertex weights (EDVW), a weight is associated with each vertex-hyperedge pair, yielding a weighted incidence matrix of the hypergraph. Such weightings have been utilized in term-document representations of text data sets. We explain how random walks with EDVW serve to construct different hypergraph Laplacian matrices, and then develop a suite of clustering methods that use these incidence matrices and Laplacians for hypergraph clustering. Using several data sets from real-life applications, we compare the performance of these clustering algorithms experimentally against a variety of existing hypergraph clustering methods. We show that the proposed methods produce higher-quality clusters and conclude by highlighting avenues for future work.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/aksoy-2019-b/">
+  <link rel="alternate" hreflang="en-us" href="/publication/hayashi-2020-hypergraph/">
 
   
 
@@ -96,7 +96,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/publication/aksoy-2019-b/">
+  <link rel="canonical" href="/publication/hayashi-2020-hypergraph/">
 
   
   
@@ -109,15 +109,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Sinan Aksoy">
-  <meta property="og:url" content="/publication/aksoy-2019-b/">
-  <meta property="og:title" content="Hypernetwork Science via High-Order Hypergraph Walks | Sinan Aksoy">
-  <meta property="og:description" content="We propose high-order hypergraph walks as a framework to generalize graph-based network science techniques to hypergraphs. Edge incidence in hypergraphs is quantitative, yielding hypergraph walks with both length and width. Graph methods which then generalize to hypergraphs include connected component analyses, graph distance-based metrics such as closeness centrality, and motif-based measures such as clustering coefficients. We apply high-order analogs of these methods to real world hypernetworks, and show they reveal nuanced and interpretable structure that cannot be detected by graph-based methods. Lastly, we apply three generative models to the data and find that basic hypergraph properties, such as density and degree distributions, do not necessarily control these new structural measurements. Our work demonstrates how analyses of hypergraph-structured data are richer when utilizing tools tailored to capture hypergraph-native phenomena, and suggests one possible avenue towards that end."><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:url" content="/publication/hayashi-2020-hypergraph/">
+  <meta property="og:title" content="Hypergraph Random Walks, Laplacians, and Clustering | Sinan Aksoy">
+  <meta property="og:description" content="We propose a flexible framework for clustering hypergraph-structured data based on recently proposed random walks utilizing edge-dependent vertex weights. When incorporating edge-dependent vertex weights (EDVW), a weight is associated with each vertex-hyperedge pair, yielding a weighted incidence matrix of the hypergraph. Such weightings have been utilized in term-document representations of text data sets. We explain how random walks with EDVW serve to construct different hypergraph Laplacian matrices, and then develop a suite of clustering methods that use these incidence matrices and Laplacians for hypergraph clustering. Using several data sets from real-life applications, we compare the performance of these clustering algorithms experimentally against a variety of existing hypergraph clustering methods. We show that the proposed methods produce higher-quality clusters and conclude by highlighting avenues for future work."><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2019-06-10T21:00:34&#43;00:00">
+      <meta property="article:published_time" content="2020-06-29T00:04:12&#43;00:00">
     
-    <meta property="article:modified_time" content="2020-06-10T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2020-06-29T00:00:00&#43;00:00">
   
 
   
@@ -129,7 +129,7 @@
 
 
 
-  <title>Hypernetwork Science via High-Order Hypergraph Walks | Sinan Aksoy</title>
+  <title>Hypergraph Random Walks, Laplacians, and Clustering | Sinan Aksoy</title>
 
 </head>
 
@@ -375,7 +375,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Hypernetwork Science via High-Order Hypergraph Walks</h1>
+  <h1 itemprop="name">Hypergraph Random Walks, Laplacians, and Clustering</h1>
 
   
 
@@ -384,8 +384,8 @@
 
 
 
-<meta content="2020-06-10 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2020-06-10 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2020-06-29 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2020-06-29 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -398,7 +398,7 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sinan-g.-aksoy/">Sinan G. Aksoy</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/cliff-joslyn/">Cliff Joslyn</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/carlos-ortiz-marrero/">Carlos Ortiz Marrero</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/brenda-praggastis/">Brenda Praggastis</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/emilie-purvine/">Emilie Purvine</a></span>
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/koby-hayashi/">Koby Hayashi</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sinan-g-aksoy/">Sinan G Aksoy</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/cheong-hee-park/">Cheong Hee Park</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/haesun-park/">Haesun Park</a></span>
 
   </div>
   
@@ -438,7 +438,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/publication/aksoy-2019-b/&amp;text=Hypernetwork%20Science%20via%20High-Order%20Hypergraph%20Walks" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/publication/hayashi-2020-hypergraph/&amp;text=Hypergraph%20Random%20Walks,%20Laplacians,%20and%20Clustering" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -451,7 +451,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/publication/aksoy-2019-b/&amp;t=Hypernetwork%20Science%20via%20High-Order%20Hypergraph%20Walks" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/publication/hayashi-2020-hypergraph/&amp;t=Hypergraph%20Random%20Walks,%20Laplacians,%20and%20Clustering" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -464,7 +464,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Hypernetwork%20Science%20via%20High-Order%20Hypergraph%20Walks&amp;body=/publication/aksoy-2019-b/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Hypergraph%20Random%20Walks,%20Laplacians,%20and%20Clustering&amp;body=/publication/hayashi-2020-hypergraph/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -477,7 +477,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/publication/aksoy-2019-b/&amp;title=Hypernetwork%20Science%20via%20High-Order%20Hypergraph%20Walks" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/hayashi-2020-hypergraph/&amp;title=Hypergraph%20Random%20Walks,%20Laplacians,%20and%20Clustering" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -490,7 +490,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Hypernetwork%20Science%20via%20High-Order%20Hypergraph%20Walks%20/publication/aksoy-2019-b/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Hypergraph%20Random%20Walks,%20Laplacians,%20and%20Clustering%20/publication/hayashi-2020-hypergraph/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -503,7 +503,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/publication/aksoy-2019-b/&amp;title=Hypernetwork%20Science%20via%20High-Order%20Hypergraph%20Walks" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/publication/hayashi-2020-hypergraph/&amp;title=Hypergraph%20Random%20Walks,%20Laplacians,%20and%20Clustering" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -525,8 +525,6 @@
 
 
 
-  
-
 
 
 
@@ -540,6 +538,14 @@
 
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2006.16377.pdf" target="_blank" rel="noopener">
+  Preprint
+</a>
+
 
 
 
@@ -547,9 +553,6 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="/publication/aksoy-2019-b/aksoy-2019-b.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -563,11 +566,6 @@
 
 
 
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1140/epjds/s13688-020-00231-0" target="_blank" rel="noopener">
-  DOI
-</a>
 
 
 
@@ -583,7 +581,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">We propose high-order hypergraph walks as a framework to generalize graph-based network science techniques to hypergraphs. Edge incidence in hypergraphs is quantitative, yielding hypergraph walks with both length and width. Graph methods which then generalize to hypergraphs include connected component analyses, graph distance-based metrics such as closeness centrality, and motif-based measures such as clustering coefficients. We apply high-order analogs of these methods to real world hypernetworks, and show they reveal nuanced and interpretable structure that cannot be detected by graph-based methods. Lastly, we apply three generative models to the data and find that basic hypergraph properties, such as density and degree distributions, do not necessarily control these new structural measurements. Our work demonstrates how analyses of hypergraph-structured data are richer when utilizing tools tailored to capture hypergraph-native phenomena, and suggests one possible avenue towards that end.</p>
+    <p class="pub-abstract" itemprop="text">We propose a flexible framework for clustering hypergraph-structured data based on recently proposed random walks utilizing edge-dependent vertex weights. When incorporating edge-dependent vertex weights (EDVW), a weight is associated with each vertex-hyperedge pair, yielding a weighted incidence matrix of the hypergraph. Such weightings have been utilized in term-document representations of text data sets. We explain how random walks with EDVW serve to construct different hypergraph Laplacian matrices, and then develop a suite of clustering methods that use these incidence matrices and Laplacians for hypergraph clustering. Using several data sets from real-life applications, we compare the performance of these clustering algorithms experimentally against a variety of existing hypergraph clustering methods. We show that the proposed methods produce higher-quality clusters and conclude by highlighting avenues for future work.</p>
     
 
     
@@ -619,7 +617,7 @@
   
   <a class="badge badge-light" href="/tags/hypergraphs/">hypergraphs</a>
   
-  <a class="badge badge-light" href="/tags/graph-generation/">graph generation</a>
+  <a class="badge badge-light" href="/tags/spectral-graph-theory/">spectral graph theory</a>
   
 </div>
 
@@ -651,7 +649,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/authors/sinan-g.-aksoy/"></a></h5>
+      <h5 class="card-title" itemprop="name"><a href="/authors/koby-hayashi/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
