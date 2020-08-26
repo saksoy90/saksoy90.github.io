@@ -5,12 +5,20 @@
     <link>/authors/emilie-purvine/</link>
       <atom:link href="/authors/emilie-purvine/index.xml" rel="self" type="application/rss+xml" />
     <description>Emilie Purvine</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Emilie Purvine</title>
       <link>/authors/emilie-purvine/</link>
     </image>
+    
+    <item>
+      <title>Directional Laplacian Centrality for Cyber Situational Awareness</title>
+      <link>/publication/aksoy-2020-directional/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/aksoy-2020-directional/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hypernetwork Science via High-Order Hypergraph Walks</title>

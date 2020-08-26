@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>hypergraphs</title>
-      <link>/tags/hypergraphs/</link>
-      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/hypergraphs/</guid>
+      <title>spectral graph theory</title>
+      <link>/tags/spectral-graph-theory/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/spectral-graph-theory/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>spectral graph theory</title>
-      <link>/tags/spectral-graph-theory/</link>
+      <title>temporal networks</title>
+      <link>/tags/temporal-networks/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/temporal-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hypergraphs</title>
+      <link>/tags/hypergraphs/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/spectral-graph-theory/</guid>
+      <guid>/tags/hypergraphs/</guid>
       <description></description>
     </item>
     
