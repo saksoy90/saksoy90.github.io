@@ -5,7 +5,7 @@
     <link>/authors/sinan-g.-aksoy/</link>
       <atom:link href="/authors/sinan-g.-aksoy/index.xml" rel="self" type="application/rss+xml" />
     <description>Sinan G. Aksoy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Sinan G. Aksoy</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Hypernetwork Science via High-Order Hypergraph Walks</title>
-      <link>/publication/aksoy-2019-b/</link>
-      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/aksoy-2019-b/</guid>
+      <title>Spectral Threshold for Extremal Cyclic Edge-Connectivity</title>
+      <link>/publication/aksoy-2020/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/aksoy-2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Spectral Threshold for Extremal Cyclic Edge-Connectivity</title>
-      <link>/publication/aksoy-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/aksoy-2020/</guid>
+      <title>Hypernetwork Science via High-Order Hypergraph Walks</title>
+      <link>/publication/aksoy-2019-b/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/aksoy-2019-b/</guid>
       <description></description>
     </item>
     

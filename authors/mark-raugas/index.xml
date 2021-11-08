@@ -5,12 +5,20 @@
     <link>/authors/mark-raugas/</link>
       <atom:link href="/authors/mark-raugas/index.xml" rel="self" type="application/rss+xml" />
     <description>Mark Raugas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Mark Raugas</title>
       <link>/authors/mark-raugas/</link>
     </image>
+    
+    <item>
+      <title>SpectralFly: Ramanujan Graphs as Flexible and Efficient Interconnection Networks</title>
+      <link>/publication/aksoy-2021-spectralfly/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/aksoy-2021-spectralfly/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ramanujan Graphs and the Spectral Gap of Supercomputing Topologies</title>

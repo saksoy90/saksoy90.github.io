@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Emilie Purvine</title>
       <link>/authors/emilie-purvine/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/authors/emilie-purvine/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Sinan G Aksoy</title>
       <link>/authors/sinan-g-aksoy/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/authors/sinan-g-aksoy/</guid>
       <description></description>
     </item>
@@ -31,8 +31,80 @@
     <item>
       <title>Stephen J Young</title>
       <link>/authors/stephen-j-young/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/authors/stephen-j-young/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Kempton</title>
+      <link>/authors/mark-kempton/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/mark-kempton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sinan G. Aksoy</title>
+      <link>/authors/sinan-g.-aksoy/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/sinan-g.-aksoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen J. Young</title>
+      <link>/authors/stephen-j.-young/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/stephen-j.-young/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jesun Firoz</title>
+      <link>/authors/jesun-firoz/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/jesun-firoz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Escobedo</title>
+      <link>/authors/juan-escobedo/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/juan-escobedo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Raugas</title>
+      <link>/authors/mark-raugas/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/mark-raugas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberto Gioiosa</title>
+      <link>/authors/roberto-gioiosa/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/roberto-gioiosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sinan Aksoy</title>
+      <link>/authors/sinan-aksoy/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/sinan-aksoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen Young</title>
+      <link>/authors/stephen-young/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/stephen-young/</guid>
       <description></description>
     </item>
     
@@ -81,38 +153,6 @@
       <link>/authors/cliff-joslyn/</link>
       <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/authors/cliff-joslyn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sinan G. Aksoy</title>
-      <link>/authors/sinan-g.-aksoy/</link>
-      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/sinan-g.-aksoy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mark Kempton</title>
-      <link>/authors/mark-kempton/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/mark-kempton/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stephen J. Young</title>
-      <link>/authors/stephen-j.-young/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/stephen-j.-young/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mark Raugas</title>
-      <link>/authors/mark-raugas/</link>
-      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/mark-raugas/</guid>
       <description></description>
     </item>
     
@@ -209,14 +249,6 @@
       <link>/authors/sarah-harun/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       <guid>/authors/sarah-harun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sinan Aksoy</title>
-      <link>/authors/sinan-aksoy/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/sinan-aksoy/</guid>
       <description></description>
     </item>
     
@@ -361,7 +393,7 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Sinan Aksoy is a discrete mathematician specializing in graph theory and network science. In addition to his theoretical research in spectral and extremal graph theory, he also in interested in applying graph theoretic methods to study complex systems arising from social networks, power and communication systems, and cyber security. In these domains, his work focuses on developing methodologies that draw from probability, statistics, and combinatorics.&lt;/p&gt;
+      <description>&lt;p&gt;Sinan Aksoy is a discrete mathematician specializing in (hyper)graph theory and network science. In addition to his theoretical research in spectral and extremal graph theory, he applies graph theoretic methods to study complex systems arising from varied domains, including social networks, power and communication systems, and high performance computing. His work focuses on developing widely applicable methodologies that draw from probability, linear algebra, and combinatorics.&lt;/p&gt;
 </description>
     </item>
     
