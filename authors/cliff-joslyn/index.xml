@@ -5,12 +5,20 @@
     <link>/authors/cliff-joslyn/</link>
       <atom:link href="/authors/cliff-joslyn/index.xml" rel="self" type="application/rss+xml" />
     <description>Cliff Joslyn</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Cliff Joslyn</title>
       <link>/authors/cliff-joslyn/</link>
     </image>
+    
+    <item>
+      <title>Parallel Algorithms and Heuristics for Efficient Computation of High-Order Line Graphs of Hypergraphs</title>
+      <link>/publication/liu-2020-parallel/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/liu-2020-parallel/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hypernetwork Science via High-Order Hypergraph Walks</title>

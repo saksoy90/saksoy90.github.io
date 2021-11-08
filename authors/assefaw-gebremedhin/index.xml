@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jesun Firoz | Sinan Aksoy</title>
-    <link>/authors/jesun-firoz/</link>
-      <atom:link href="/authors/jesun-firoz/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jesun Firoz</description>
+    <title>Assefaw Gebremedhin | Sinan Aksoy</title>
+    <link>/authors/assefaw-gebremedhin/</link>
+      <atom:link href="/authors/assefaw-gebremedhin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Assefaw Gebremedhin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Jesun Firoz</title>
-      <link>/authors/jesun-firoz/</link>
+      <title>Assefaw Gebremedhin</title>
+      <link>/authors/assefaw-gebremedhin/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/liu-2020-parallel/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>/publication/liu-2020-parallel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SpectralFly: Ramanujan Graphs as Flexible and Efficient Interconnection Networks</title>
-      <link>/publication/aksoy-2021-spectralfly/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/aksoy-2021-spectralfly/</guid>
       <description></description>
     </item>
     

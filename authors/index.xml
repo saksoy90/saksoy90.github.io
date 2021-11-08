@@ -5,12 +5,68 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Andrew Lumsdaine</title>
+      <link>/authors/andrew-lumsdaine/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/andrew-lumsdaine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assefaw Gebremedhin</title>
+      <link>/authors/assefaw-gebremedhin/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/assefaw-gebremedhin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brenda Praggastis</title>
+      <link>/authors/brenda-praggastis/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/brenda-praggastis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cliff Joslyn</title>
+      <link>/authors/cliff-joslyn/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/cliff-joslyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jesun Firoz</title>
+      <link>/authors/jesun-firoz/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/jesun-firoz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sinan Aksoy</title>
+      <link>/authors/sinan-aksoy/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/sinan-aksoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xu T Liu</title>
+      <link>/authors/xu-t-liu/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/xu-t-liu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Emilie Purvine</title>
@@ -61,14 +117,6 @@
     </item>
     
     <item>
-      <title>Jesun Firoz</title>
-      <link>/authors/jesun-firoz/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/jesun-firoz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Juan Escobedo</title>
       <link>/authors/juan-escobedo/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -89,14 +137,6 @@
       <link>/authors/roberto-gioiosa/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/authors/roberto-gioiosa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sinan Aksoy</title>
-      <link>/authors/sinan-aksoy/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/sinan-aksoy/</guid>
       <description></description>
     </item>
     
@@ -133,26 +173,10 @@
     </item>
     
     <item>
-      <title>Brenda Praggastis</title>
-      <link>/authors/brenda-praggastis/</link>
-      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/brenda-praggastis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Carlos Ortiz Marrero</title>
       <link>/authors/carlos-ortiz-marrero/</link>
       <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/authors/carlos-ortiz-marrero/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cliff Joslyn</title>
-      <link>/authors/cliff-joslyn/</link>
-      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/cliff-joslyn/</guid>
       <description></description>
     </item>
     
