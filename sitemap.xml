@@ -4,94 +4,257 @@
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/andrew-lumsdaine/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/assefaw-gebremedhin/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/publication/aksoy-2022-advisor/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/brenda-praggastis/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/cliff-joslyn/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/hpc/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/jesun-firoz/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/liu-2020-parallel/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sinan-aksoy/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sinan-g-aksoy/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/xu-t-liu/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <loc>/tags/early-career-advice/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/aric-hagberg/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/bill-kay/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/cliff-a-joslyn/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/emilie-purvine/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/aksoy-2022-notices/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/stephen-j-young/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/hypergraphs/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/andrew-lumsdaine/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/assefaw-h-gebremedhin/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/brenda-praggastis/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/cliff-joslyn/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/hpc/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/haesun-park/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/liu-2022-high/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ilya-amburg/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jesun-firoz/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/koby-hayashi/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sinan-aksoy/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/hayashi-2022-skew/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/xu-t-liu/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/directed-graphs/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/spectral-graph-theory/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/assefaw-h.-gebremedhin/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/liu-parallel-2021/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/xu-t.-liu/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/brett-jefferson/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/dustin-arendt/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ellyn-ayton/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/emily-saldanha/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/volkova-2021/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/joseph-cottam/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/karthnik-shrivaram/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/maria-glenski/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/svitlana-volkova/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/social-networks/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -102,31 +265,7 @@
   </url>
   
   <url>
-    <loc>/authors/emilie-purvine/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/sinan-g-aksoy/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/stephen-j-young/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/cyber-security/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/spectral-graph-theory/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -155,6 +294,12 @@
   </url>
   
   <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/juan-escobedo/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -167,7 +312,19 @@
   </url>
   
   <url>
+    <loc>/authors/peng-wang/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/roberto-gioiosa/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sandip-roy/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -184,13 +341,24 @@
   </url>
   
   <url>
-    <loc>/authors/cheong-hee-park/</loc>
-    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+    <loc>/publication/roy-2021-structural/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/subir-sarker/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/haesun-park/</loc>
+    <loc>/tags/power-grid/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/cheong-hee-park/</loc>
     <lastmod>2020-06-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -198,12 +366,6 @@
   <url>
     <loc>/publication/hayashi-2020-hypergraph/</loc>
     <lastmod>2020-06-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/koby-hayashi/</loc>
-    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -220,6 +382,35 @@
   <url>
     <loc>/tags/graph-generation/</loc>
     <lastmod>2020-06-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/cliff-a.-joslyn/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/joslyn-2020-hypernetwork/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ignacio-j.-tripodi/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/lawrence-e.-hunter/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/tiffany-j.-callahan/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -314,12 +505,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/jenkins-2018/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -390,12 +575,6 @@
   </url>
   
   <url>
-    <loc>/tags/power-grid/</loc>
-    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication_types/6/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -453,12 +632,6 @@
   
   <url>
     <loc>/authors/xing-peng/</loc>
-    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/directed-graphs/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

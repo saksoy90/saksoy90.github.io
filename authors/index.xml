@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,25 +13,73 @@
     </image>
     
     <item>
+      <title>Sinan G Aksoy</title>
+      <link>/authors/sinan-g-aksoy/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/sinan-g-aksoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aric Hagberg</title>
+      <link>/authors/aric-hagberg/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/aric-hagberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bill Kay</title>
+      <link>/authors/bill-kay/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/bill-kay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cliff A Joslyn</title>
+      <link>/authors/cliff-a-joslyn/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/cliff-a-joslyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emilie Purvine</title>
+      <link>/authors/emilie-purvine/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/emilie-purvine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen J Young</title>
+      <link>/authors/stephen-j-young/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/stephen-j-young/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Andrew Lumsdaine</title>
       <link>/authors/andrew-lumsdaine/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/authors/andrew-lumsdaine/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Assefaw Gebremedhin</title>
-      <link>/authors/assefaw-gebremedhin/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/assefaw-gebremedhin/</guid>
+      <title>Assefaw H Gebremedhin</title>
+      <link>/authors/assefaw-h-gebremedhin/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/assefaw-h-gebremedhin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brenda Praggastis</title>
       <link>/authors/brenda-praggastis/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/authors/brenda-praggastis/</guid>
       <description></description>
     </item>
@@ -39,23 +87,47 @@
     <item>
       <title>Cliff Joslyn</title>
       <link>/authors/cliff-joslyn/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/authors/cliff-joslyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haesun Park</title>
+      <link>/authors/haesun-park/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/haesun-park/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ilya Amburg</title>
+      <link>/authors/ilya-amburg/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/ilya-amburg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jesun Firoz</title>
       <link>/authors/jesun-firoz/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/authors/jesun-firoz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Koby Hayashi</title>
+      <link>/authors/koby-hayashi/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/koby-hayashi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sinan Aksoy</title>
       <link>/authors/sinan-aksoy/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/authors/sinan-aksoy/</guid>
       <description></description>
     </item>
@@ -63,32 +135,88 @@
     <item>
       <title>Xu T Liu</title>
       <link>/authors/xu-t-liu/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/authors/xu-t-liu/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Emilie Purvine</title>
-      <link>/authors/emilie-purvine/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/emilie-purvine/</guid>
+      <title>Assefaw H. Gebremedhin</title>
+      <link>/authors/assefaw-h.-gebremedhin/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/assefaw-h.-gebremedhin/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sinan G Aksoy</title>
-      <link>/authors/sinan-g-aksoy/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/sinan-g-aksoy/</guid>
+      <title>Xu T. Liu</title>
+      <link>/authors/xu-t.-liu/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/xu-t.-liu/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Stephen J Young</title>
-      <link>/authors/stephen-j-young/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/stephen-j-young/</guid>
+      <title>Brett Jefferson</title>
+      <link>/authors/brett-jefferson/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/brett-jefferson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dustin Arendt</title>
+      <link>/authors/dustin-arendt/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/dustin-arendt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ellyn Ayton</title>
+      <link>/authors/ellyn-ayton/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/ellyn-ayton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emily Saldanha</title>
+      <link>/authors/emily-saldanha/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/emily-saldanha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joseph Cottam</title>
+      <link>/authors/joseph-cottam/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/joseph-cottam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karthnik Shrivaram</title>
+      <link>/authors/karthnik-shrivaram/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/karthnik-shrivaram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Glenski</title>
+      <link>/authors/maria-glenski/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/maria-glenski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Svitlana Volkova</title>
+      <link>/authors/svitlana-volkova/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/svitlana-volkova/</guid>
       <description></description>
     </item>
     
@@ -133,10 +261,26 @@
     </item>
     
     <item>
+      <title>Peng Wang</title>
+      <link>/authors/peng-wang/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/peng-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Roberto Gioiosa</title>
       <link>/authors/roberto-gioiosa/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/authors/roberto-gioiosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandip Roy</title>
+      <link>/authors/sandip-roy/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/sandip-roy/</guid>
       <description></description>
     </item>
     
@@ -149,6 +293,14 @@
     </item>
     
     <item>
+      <title>Subir Sarker</title>
+      <link>/authors/subir-sarker/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/subir-sarker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cheong Hee Park</title>
       <link>/authors/cheong-hee-park/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
@@ -157,26 +309,42 @@
     </item>
     
     <item>
-      <title>Haesun Park</title>
-      <link>/authors/haesun-park/</link>
-      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/haesun-park/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Koby Hayashi</title>
-      <link>/authors/koby-hayashi/</link>
-      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/koby-hayashi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Carlos Ortiz Marrero</title>
       <link>/authors/carlos-ortiz-marrero/</link>
       <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/authors/carlos-ortiz-marrero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cliff A. Joslyn</title>
+      <link>/authors/cliff-a.-joslyn/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/cliff-a.-joslyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ignacio J. Tripodi</title>
+      <link>/authors/ignacio-j.-tripodi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ignacio-j.-tripodi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lawrence E. Hunter</title>
+      <link>/authors/lawrence-e.-hunter/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/lawrence-e.-hunter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiffany J. Callahan</title>
+      <link>/authors/tiffany-j.-callahan/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/tiffany-j.-callahan/</guid>
       <description></description>
     </item>
     

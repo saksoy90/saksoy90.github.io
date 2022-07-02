@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brett Jefferson | Sinan Aksoy</title>
+    <link>/authors/brett-jefferson/</link>
+      <atom:link href="/authors/brett-jefferson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brett Jefferson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Brett Jefferson</title>
+      <link>/authors/brett-jefferson/</link>
+    </image>
+    
+    <item>
+      <title>Explaining and predicting human behavior and social dynamics in simulated virtual worlds: reproducibility, generalizability, and robustness of causal discovery methods</title>
+      <link>/publication/volkova-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/volkova-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypernetwork Science: From Multidimensional Networks to Computational Topology</title>
+      <link>/publication/joslyn-2020-hypernetwork/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/joslyn-2020-hypernetwork/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

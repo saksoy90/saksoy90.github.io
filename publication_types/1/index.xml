@@ -5,12 +5,28 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>1</title>
       <link>/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Structural Controllability Assessment for Inverter-Based Microgrids</title>
+      <link>/publication/roy-2021-structural/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/roy-2021-structural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypernetwork Science: From Multidimensional Networks to Computational Topology</title>
+      <link>/publication/joslyn-2020-hypernetwork/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/joslyn-2020-hypernetwork/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chapel HyperGraph Library (CHGL)</title>

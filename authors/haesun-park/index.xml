@@ -5,12 +5,20 @@
     <link>/authors/haesun-park/</link>
       <atom:link href="/authors/haesun-park/index.xml" rel="self" type="application/rss+xml" />
     <description>Haesun Park</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Haesun Park</title>
       <link>/authors/haesun-park/</link>
     </image>
+    
+    <item>
+      <title>Skew-Symmetric Adjacency Matrices for Clustering Directed Graphs</title>
+      <link>/publication/hayashi-2022-skew/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hayashi-2022-skew/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hypergraph Random Walks, Laplacians, and Clustering</title>

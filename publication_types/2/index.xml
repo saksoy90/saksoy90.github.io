@@ -5,7 +5,7 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>2</title>
@@ -13,10 +13,50 @@
     </image>
     
     <item>
-      <title>Parallel Algorithms and Heuristics for Efficient Computation of High-Order Line Graphs of Hypergraphs</title>
-      <link>/publication/liu-2020-parallel/</link>
+      <title>Advice From Our Advisor: Fan Chung</title>
+      <link>/publication/aksoy-2022-advisor/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/aksoy-2022-advisor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Models and Methods for Sparse (Hyper)Network Science in Business, Industry, and Government</title>
+      <link>/publication/aksoy-2022-notices/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/aksoy-2022-notices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-order Line Graphs of Non-uniform Hypergraphs: Algorithms, Applications, and Experimental Analysis</title>
+      <link>/publication/liu-2022-high/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/liu-2022-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skew-Symmetric Adjacency Matrices for Clustering Directed Graphs</title>
+      <link>/publication/hayashi-2022-skew/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hayashi-2022-skew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Algorithms for Efficient Computation of High-Order Line Graphs of Hypergraphs</title>
+      <link>/publication/liu-parallel-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/liu-parallel-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining and predicting human behavior and social dynamics in simulated virtual worlds: reproducibility, generalizability, and robustness of causal discovery methods</title>
+      <link>/publication/volkova-2021/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/liu-2020-parallel/</guid>
+      <guid>/publication/volkova-2021/</guid>
       <description></description>
     </item>
     

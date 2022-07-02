@@ -5,7 +5,7 @@
     <link>/authors/sinan-g-aksoy/</link>
       <atom:link href="/authors/sinan-g-aksoy/index.xml" rel="self" type="application/rss+xml" />
     <description>Sinan G Aksoy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Sinan G Aksoy</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>Advice From Our Advisor: Fan Chung</title>
+      <link>/publication/aksoy-2022-advisor/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/aksoy-2022-advisor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Models and Methods for Sparse (Hyper)Network Science in Business, Industry, and Government</title>
+      <link>/publication/aksoy-2022-notices/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/aksoy-2022-notices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skew-Symmetric Adjacency Matrices for Clustering Directed Graphs</title>
+      <link>/publication/hayashi-2022-skew/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hayashi-2022-skew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Directional Laplacian Centrality for Cyber Situational Awareness</title>
       <link>/publication/aksoy-2021-directional/</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/publication/aksoy-2021-directional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural Controllability Assessment for Inverter-Based Microgrids</title>
+      <link>/publication/roy-2021-structural/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/roy-2021-structural/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ignacio J. Tripodi | Sinan Aksoy</title>
+    <link>/authors/ignacio-j.-tripodi/</link>
+      <atom:link href="/authors/ignacio-j.-tripodi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ignacio J. Tripodi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ignacio J. Tripodi</title>
+      <link>/authors/ignacio-j.-tripodi/</link>
+    </image>
+    
+    <item>
+      <title>Hypernetwork Science: From Multidimensional Networks to Computational Topology</title>
+      <link>/publication/joslyn-2020-hypernetwork/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/joslyn-2020-hypernetwork/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

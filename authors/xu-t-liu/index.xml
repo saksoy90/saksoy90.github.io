@@ -5,7 +5,7 @@
     <link>/authors/xu-t-liu/</link>
       <atom:link href="/authors/xu-t-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Xu T Liu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Xu T Liu</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Parallel Algorithms and Heuristics for Efficient Computation of High-Order Line Graphs of Hypergraphs</title>
-      <link>/publication/liu-2020-parallel/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/liu-2020-parallel/</guid>
+      <title>High-order Line Graphs of Non-uniform Hypergraphs: Algorithms, Applications, and Experimental Analysis</title>
+      <link>/publication/liu-2022-high/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/liu-2022-high/</guid>
       <description></description>
     </item>
     

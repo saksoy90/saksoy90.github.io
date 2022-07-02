@@ -5,12 +5,20 @@
     <link>/tags/power-grid/</link>
       <atom:link href="/tags/power-grid/index.xml" rel="self" type="application/rss+xml" />
     <description>power grid</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>power grid</title>
       <link>/tags/power-grid/</link>
     </image>
+    
+    <item>
+      <title>Structural Controllability Assessment for Inverter-Based Microgrids</title>
+      <link>/publication/roy-2021-structural/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/roy-2021-structural/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A generative graph model for electrical infrastructure networks</title>

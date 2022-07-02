@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ilya Amburg | Sinan Aksoy</title>
+    <link>/authors/ilya-amburg/</link>
+      <atom:link href="/authors/ilya-amburg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ilya Amburg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ilya Amburg</title>
+      <link>/authors/ilya-amburg/</link>
+    </image>
+    
+    <item>
+      <title>High-order Line Graphs of Non-uniform Hypergraphs: Algorithms, Applications, and Experimental Analysis</title>
+      <link>/publication/liu-2022-high/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/liu-2022-high/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

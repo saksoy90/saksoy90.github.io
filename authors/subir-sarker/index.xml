@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Subir Sarker | Sinan Aksoy</title>
+    <link>/authors/subir-sarker/</link>
+      <atom:link href="/authors/subir-sarker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Subir Sarker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Subir Sarker</title>
+      <link>/authors/subir-sarker/</link>
+    </image>
+    
+    <item>
+      <title>Structural Controllability Assessment for Inverter-Based Microgrids</title>
+      <link>/publication/roy-2021-structural/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/roy-2021-structural/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
