@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kathleen Nowak | Sinan Aksoy</title>
+    <link>/authors/kathleen-nowak/</link>
+      <atom:link href="/authors/kathleen-nowak/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kathleen Nowak</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Kathleen Nowak</title>
+      <link>/authors/kathleen-nowak/</link>
+    </image>
+    
+    <item>
+      <title>A linear-time algorithm and analysis of graph Relative Hausdorff distance</title>
+      <link>/publication/aksoy-2019/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/aksoy-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Topological Approach to Representational Data Models</title>
+      <link>/publication/purvine-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/purvine-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

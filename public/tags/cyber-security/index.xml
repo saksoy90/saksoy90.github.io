@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cyber security | Sinan Aksoy</title>
+    <link>/tags/cyber-security/</link>
+      <atom:link href="/tags/cyber-security/index.xml" rel="self" type="application/rss+xml" />
+    <description>cyber security</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>cyber security</title>
+      <link>/tags/cyber-security/</link>
+    </image>
+    
+    <item>
+      <title>Directional Laplacian Centrality for Cyber Situational Awareness</title>
+      <link>/publication/aksoy-2021-directional/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/aksoy-2021-directional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relative Hausdorff Distance for Network Analysis</title>
+      <link>/publication/aksoy-2019-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/aksoy-2019-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

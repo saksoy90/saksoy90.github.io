@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>topology | Sinan Aksoy</title>
+    <link>/tags/topology/</link>
+      <atom:link href="/tags/topology/index.xml" rel="self" type="application/rss+xml" />
+    <description>topology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>topology</title>
+      <link>/tags/topology/</link>
+    </image>
+    
+    <item>
+      <title>A Topological Approach to Representational Data Models</title>
+      <link>/publication/purvine-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/purvine-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bikei, Involutory Biracks and Unoriented Link Invariants</title>
+      <link>/publication/aksoy-2012/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/aksoy-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

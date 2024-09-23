@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HPC | Sinan Aksoy</title>
+    <link>/tags/hpc/</link>
+      <atom:link href="/tags/hpc/index.xml" rel="self" type="application/rss+xml" />
+    <description>HPC</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>HPC</title>
+      <link>/tags/hpc/</link>
+    </image>
+    
+    <item>
+      <title>High-order Line Graphs of Non-uniform Hypergraphs: Algorithms, Applications, and Experimental Analysis</title>
+      <link>/publication/liu-2022-high/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/liu-2022-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Algorithms for Efficient Computation of High-Order Line Graphs of Hypergraphs</title>
+      <link>/publication/liu-parallel-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/liu-parallel-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SpectralFly: Ramanujan Graphs as Flexible and Efficient Interconnection Networks</title>
+      <link>/publication/aksoy-2021-spectralfly/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/aksoy-2021-spectralfly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ramanujan Graphs and the Spectral Gap of Supercomputing Topologies</title>
+      <link>/publication/aksoy-2019-c/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/aksoy-2019-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

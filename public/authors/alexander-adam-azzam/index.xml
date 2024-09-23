@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander Adam Azzam | Sinan Aksoy</title>
+    <link>/authors/alexander-adam-azzam/</link>
+      <atom:link href="/authors/alexander-adam-azzam/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexander Adam Azzam</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Alexander Adam Azzam</title>
+      <link>/authors/alexander-adam-azzam/</link>
+    </image>
+    
+    <item>
+      <title>School Choice as a One-Sided Matching Problem: Cardinal Utilities and Optimization</title>
+      <link>/publication/aksoy-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/aksoy-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

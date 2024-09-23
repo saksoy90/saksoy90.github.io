@@ -1,0 +1,28 @@
+% Encoding: UTF-8
+
+@Article{Aksoy2017,
+  author    = {Sinan G. Aksoy and Tamara G. Kolda and Ali Pinar},
+  title     = {Measuring and modeling bipartite graphs with community structure},
+  journal   = {Journal of Complex Networks},
+  year      = {2017},
+  volume    = {5},
+  number    = {4},
+  pages     = {581--603},
+  month     = {mar},
+  doi       = {10.1093/comnet/cnx001},
+  publisher = {Oxford University Press ({OUP})},
+}
+
+@Article{Aksoy2018,
+  author    = {Sinan G. Aksoy and Fan Chung and Michael Tait and Josh Tobin},
+  title     = {The maximum relaxation time of a random walk},
+  journal   = {Advances in Applied Mathematics},
+  year      = {2018},
+  volume    = {101},
+  pages     = {1--14},
+  month     = {oct},
+  doi       = {10.1016/j.aam.2018.07.002},
+  publisher = {Elsevier {BV}},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

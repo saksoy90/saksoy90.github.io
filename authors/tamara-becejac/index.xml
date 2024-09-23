@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tamara Becejac | Sinan Aksoy</title>
+    <link>/authors/tamara-becejac/</link>
+      <atom:link href="/authors/tamara-becejac/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tamara Becejac</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tamara Becejac</title>
+      <link>/authors/tamara-becejac/</link>
+    </image>
+    
+    <item>
+      <title>The Circular Variance as a Visual Summary of Synchronized Voltage Angle Measurements</title>
+      <link>/publication/follum-2023-circular/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/follum-2023-circular/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

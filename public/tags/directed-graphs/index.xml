@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>directed graphs | Sinan Aksoy</title>
+    <link>/tags/directed-graphs/</link>
+      <atom:link href="/tags/directed-graphs/index.xml" rel="self" type="application/rss+xml" />
+    <description>directed graphs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>directed graphs</title>
+      <link>/tags/directed-graphs/</link>
+    </image>
+    
+    <item>
+      <title>Skew-Symmetric Adjacency Matrices for Clustering Directed Graphs</title>
+      <link>/publication/hayashi-2022-skew/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hayashi-2022-skew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extreme values of the stationary distribution of random walks on directed graphs</title>
+      <link>/publication/aksoy-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/aksoy-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphs with Many Strong Orientations</title>
+      <link>/publication/aksoy-2016-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/aksoy-2016-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
