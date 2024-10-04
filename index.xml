@@ -197,6 +197,14 @@
     </item>
     
     <item>
+      <title>GENTTSV</title>
+      <link>/project/genttsv/</link>
+      <pubDate>Mon, 26 Aug 2019 20:56:27 -0700</pubDate>
+      <guid>/project/genttsv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>HNX</title>
       <link>/project/hnx/</link>
       <pubDate>Mon, 26 Aug 2019 20:56:27 -0700</pubDate>
@@ -205,10 +213,10 @@
     </item>
     
     <item>
-      <title>genTTSV</title>
-      <link>/project/genttsv/</link>
+      <title>hyperedge-triplets</title>
+      <link>/project/hyperedge-triplets/</link>
       <pubDate>Mon, 26 Aug 2019 20:56:27 -0700</pubDate>
-      <guid>/project/genttsv/</guid>
+      <guid>/project/hyperedge-triplets/</guid>
       <description></description>
     </item>
     
