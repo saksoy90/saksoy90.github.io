@@ -5,12 +5,20 @@
     <link>/authors/brenda-praggastis/</link>
       <atom:link href="/authors/brenda-praggastis/index.xml" rel="self" type="application/rss+xml" />
     <description>Brenda Praggastis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Brenda Praggastis</title>
       <link>/authors/brenda-praggastis/</link>
     </image>
+    
+    <item>
+      <title>HyperNetX: A Python package for modeling complex network data as hypergraphs</title>
+      <link>/publication/praggastis-2023-hypernetx/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/praggastis-2023-hypernetx/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>High-order Line Graphs of Non-uniform Hypergraphs: Algorithms, Applications, and Experimental Analysis</title>

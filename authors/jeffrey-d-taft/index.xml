@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeffrey D Taft | Sinan Aksoy</title>
+    <link>/authors/jeffrey-d-taft/</link>
+      <atom:link href="/authors/jeffrey-d-taft/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeffrey D Taft</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jeffrey D Taft</title>
+      <link>/authors/jeffrey-d-taft/</link>
+    </image>
+    
+    <item>
+      <title>Methods and systems for evaluating data transportability in distribution grids</title>
+      <link>/publication/taft-2023-methods/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/taft-2023-methods/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

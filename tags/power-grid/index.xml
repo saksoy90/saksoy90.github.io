@@ -5,12 +5,20 @@
     <link>/tags/power-grid/</link>
       <atom:link href="/tags/power-grid/index.xml" rel="self" type="application/rss+xml" />
     <description>power grid</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>power grid</title>
       <link>/tags/power-grid/</link>
     </image>
+    
+    <item>
+      <title>Methods and systems for evaluating data transportability in distribution grids</title>
+      <link>/publication/taft-2023-methods/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/taft-2023-methods/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Circular Variance as a Visual Summary of Synchronized Voltage Angle Measurements</title>

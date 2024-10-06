@@ -5,12 +5,20 @@
     <link>/tags/hpc/</link>
       <atom:link href="/tags/hpc/index.xml" rel="self" type="application/rss+xml" />
     <description>HPC</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>HPC</title>
       <link>/tags/hpc/</link>
     </image>
+    
+    <item>
+      <title>Fast Parallel Tensor Times Same Vector for Hypergraphs</title>
+      <link>/publication/shivakumar-2023-fast/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/shivakumar-2023-fast/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>High-order Line Graphs of Non-uniform Hypergraphs: Algorithms, Applications, and Experimental Analysis</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shruti Shivakumar | Sinan Aksoy</title>
+    <link>/authors/shruti-shivakumar/</link>
+      <atom:link href="/authors/shruti-shivakumar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shruti Shivakumar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Shruti Shivakumar</title>
+      <link>/authors/shruti-shivakumar/</link>
+    </image>
+    
+    <item>
+      <title>Fast Parallel Tensor Times Same Vector for Hypergraphs</title>
+      <link>/publication/shivakumar-2023-fast/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/shivakumar-2023-fast/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

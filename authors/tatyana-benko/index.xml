@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tatyana Benko | Sinan Aksoy</title>
+    <link>/authors/tatyana-benko/</link>
+      <atom:link href="/authors/tatyana-benko/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tatyana Benko</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tatyana Benko</title>
+      <link>/authors/tatyana-benko/</link>
+    </image>
+    
+    <item>
+      <title>Hypermagnet: A magnetic laplacian based hypergraph neural network</title>
+      <link>/publication/benko-2024-hypermagnet/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/benko-2024-hypermagnet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

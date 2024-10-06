@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
@@ -13,10 +13,74 @@
     </image>
     
     <item>
+      <title>Hypermagnet: A magnetic laplacian based hypergraph neural network</title>
+      <link>/publication/benko-2024-hypermagnet/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/benko-2024-hypermagnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Sample Provenance From SEM/EDS Automated Particle Analysis via Few-Shot Learning Coupled With Similarity Graph Clustering</title>
+      <link>/publication/eshun-2024-identifying/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/eshun-2024-identifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Randomized Algorithms for Symmetric Nonnegative Matrix Factorization</title>
+      <link>/publication/hayashi-2024-randomized/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/hayashi-2024-randomized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods and systems for evaluating data transportability in distribution grids</title>
+      <link>/publication/taft-2023-methods/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/taft-2023-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Parallel Tensor Times Same Vector for Hypergraphs</title>
+      <link>/publication/shivakumar-2023-fast/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/shivakumar-2023-fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Filtering higher-order datasets</title>
       <link>/publication/landry-2023-filtering/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/publication/landry-2023-filtering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HyperNetX: A Python package for modeling complex network data as hypergraphs</title>
+      <link>/publication/praggastis-2023-hypernetx/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/praggastis-2023-hypernetx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypergraph Topological Features for Autoencoder-Based Intrusion Detection for Cybersecurity Data</title>
+      <link>/publication/kay-2023-hypergraph/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/kay-2023-hypergraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malicious Cyber Activity Detection using Zigzag Persistence</title>
+      <link>/publication/myers-2023-malicious/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/myers-2023-malicious/</guid>
       <description></description>
     </item>
     
@@ -33,6 +97,22 @@
       <link>/publication/aksoy-2023-seven/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/publication/aksoy-2023-seven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Size-Aware Hypergraph Motifs</title>
+      <link>/publication/niu-2023-size/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/niu-2023-size/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stepping out of Flatland: Discovering Behavior Patterns as Topological Structures in Cyber Hypergraphs</title>
+      <link>/publication/jenne-2023-stepping/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/jenne-2023-stepping/</guid>
       <description></description>
     </item>
     

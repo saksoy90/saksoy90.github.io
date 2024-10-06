@@ -5,12 +5,44 @@
     <link>/authors/cliff-joslyn/</link>
       <atom:link href="/authors/cliff-joslyn/index.xml" rel="self" type="application/rss+xml" />
     <description>Cliff Joslyn</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Cliff Joslyn</title>
       <link>/authors/cliff-joslyn/</link>
     </image>
+    
+    <item>
+      <title>HyperNetX: A Python package for modeling complex network data as hypergraphs</title>
+      <link>/publication/praggastis-2023-hypernetx/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/praggastis-2023-hypernetx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypergraph Topological Features for Autoencoder-Based Intrusion Detection for Cybersecurity Data</title>
+      <link>/publication/kay-2023-hypergraph/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/kay-2023-hypergraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malicious Cyber Activity Detection using Zigzag Persistence</title>
+      <link>/publication/myers-2023-malicious/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/myers-2023-malicious/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stepping out of Flatland: Discovering Behavior Patterns as Topological Structures in Cyber Hypergraphs</title>
+      <link>/publication/jenne-2023-stepping/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/jenne-2023-stepping/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>High-order Line Graphs of Non-uniform Hypergraphs: Algorithms, Applications, and Experimental Analysis</title>

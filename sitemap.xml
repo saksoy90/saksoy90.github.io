@@ -4,6 +4,241 @@
   
   <url>
     <loc>/publication_types/2/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/benjamin-garcia/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/george-chin-jr/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/grey-ballard/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/haesun-park/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/heather-cunningham/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/benko-2024-hypermagnet/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/eshun-2024-identifying/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ilya-amburg/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jasmine-eshun/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jenna-a-bilbrey/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/koby-hayashi/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/martin-buck/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/natalie-c-lamar/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/hayashi-2024-randomized/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sarah-akers/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sinan-g-aksoy/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/stephen-j-young/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/tatyana-benko/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/chemistry/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/clustering/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/graph-similarity/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/hypergraphs/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/neural-networks/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/randomized-algorithms/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/spectral-graph-theory/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/0/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/casey-c-neubauer/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jeffrey-d-taft/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/taft-2023-methods/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/scott-a-upton/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/power-grid/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/others/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ahmet-erdem-sar%C4%B1yuce/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/alyson-bittner/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -15,7 +250,7 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>/authors/audun-myers/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -27,9 +262,62 @@
   </url>
   
   <url>
+    <loc>/authors/brenda-praggastis/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/carlos-ortiz-marrero/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/christopher-potvin/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/cliff-joslyn/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/dan-best/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/daniel-best/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/daniel-m-best/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/dustin-arendt/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/emilie-purvine/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/shivakumar-2023-fast/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,7 +326,65 @@
   </url>
   
   <url>
-    <loc>/authors/ilya-amburg/</loc>
+    <loc>/authors/garret-seppala/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/gregory-henselman-petrusek/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/hpc/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/helen-jenne/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/praggastis-2023-hypernetx/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/kay-2023-hypergraph/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ilya-d-amburg/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jackson-warley/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jason-niu/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ji-young-yun/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jiajia-li/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -62,6 +408,23 @@
   </url>
   
   <url>
+    <loc>/authors/madelyn-shapiro/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/myers-2023-malicious/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mark-bonicillo/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/mark-raugas/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -69,6 +432,12 @@
   
   <url>
     <loc>/authors/mirah-shi/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/molly-baird/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -83,17 +452,6 @@
     <loc>/authors/nick-betzsold/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -125,21 +483,20 @@
   </url>
   
   <url>
+    <loc>/authors/shruti-shivakumar/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/sinan-aksoy/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/publication/niu-2023-size/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/sinan-g-aksoy/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -149,7 +506,7 @@
   </url>
   
   <url>
-    <loc>/authors/stephen-j-young/</loc>
+    <loc>/authors/srinivas-aluru/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -161,9 +518,8 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/publication/jenne-2023-stepping/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -207,19 +563,25 @@
   </url>
   
   <url>
-    <loc>/tags/hypergraphs/</loc>
+    <loc>/tags/cyber-security/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/power-grid/</loc>
+    <loc>/tags/data-reduction/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/spectral-graph-theory/</loc>
+    <loc>/tags/motif-mining/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/open-source-software/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -254,12 +616,6 @@
   </url>
   
   <url>
-    <loc>/authors/emilie-purvine/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/2022/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url>
@@ -282,42 +638,12 @@
   </url>
   
   <url>
-    <loc>/authors/brenda-praggastis/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/cliff-joslyn/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/hpc/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/haesun-park/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/liu-2022-high/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/jesun-firoz/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/koby-hayashi/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -358,12 +684,6 @@
   
   <url>
     <loc>/authors/brett-jefferson/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/dustin-arendt/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -421,12 +741,6 @@
   </url>
   
   <url>
-    <loc>/tags/cyber-security/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/mark-kempton/</loc>
     <lastmod>2021-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -446,12 +760,6 @@
   <url>
     <loc>/authors/stephen-j.-young/</loc>
     <lastmod>2021-06-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -594,12 +902,6 @@
   
   <url>
     <loc>/authors/kathleen-nowak/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/graph-similarity/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

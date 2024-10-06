@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jackson Warley | Sinan Aksoy</title>
+    <link>/authors/jackson-warley/</link>
+      <atom:link href="/authors/jackson-warley/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jackson Warley</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jackson Warley</title>
+      <link>/authors/jackson-warley/</link>
+    </image>
+    
+    <item>
+      <title>Stepping out of Flatland: Discovering Behavior Patterns as Topological Structures in Cyber Hypergraphs</title>
+      <link>/publication/jenne-2023-stepping/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/jenne-2023-stepping/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

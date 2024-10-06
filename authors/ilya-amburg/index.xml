@@ -5,12 +5,28 @@
     <link>/authors/ilya-amburg/</link>
       <atom:link href="/authors/ilya-amburg/index.xml" rel="self" type="application/rss+xml" />
     <description>Ilya Amburg</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Ilya Amburg</title>
       <link>/authors/ilya-amburg/</link>
     </image>
+    
+    <item>
+      <title>Hypermagnet: A magnetic laplacian based hypergraph neural network</title>
+      <link>/publication/benko-2024-hypermagnet/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/benko-2024-hypermagnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Parallel Tensor Times Same Vector for Hypergraphs</title>
+      <link>/publication/shivakumar-2023-fast/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/shivakumar-2023-fast/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Filtering higher-order datasets</title>

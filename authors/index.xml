@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,186 @@
     </image>
     
     <item>
+      <title>Benjamin Garcia</title>
+      <link>/authors/benjamin-garcia/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/benjamin-garcia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>George Chin Jr</title>
+      <link>/authors/george-chin-jr/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/george-chin-jr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grey Ballard</title>
+      <link>/authors/grey-ballard/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/grey-ballard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haesun Park</title>
+      <link>/authors/haesun-park/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/haesun-park/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heather Cunningham</title>
+      <link>/authors/heather-cunningham/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/heather-cunningham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ilya Amburg</title>
+      <link>/authors/ilya-amburg/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/ilya-amburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jasmine Eshun</title>
+      <link>/authors/jasmine-eshun/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/jasmine-eshun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jenna A Bilbrey</title>
+      <link>/authors/jenna-a-bilbrey/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/jenna-a-bilbrey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Koby Hayashi</title>
+      <link>/authors/koby-hayashi/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/koby-hayashi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin Buck</title>
+      <link>/authors/martin-buck/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/martin-buck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natalie C Lamar</title>
+      <link>/authors/natalie-c-lamar/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/natalie-c-lamar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Akers</title>
+      <link>/authors/sarah-akers/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/sarah-akers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sinan G Aksoy</title>
+      <link>/authors/sinan-g-aksoy/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/sinan-g-aksoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen J Young</title>
+      <link>/authors/stephen-j-young/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/stephen-j-young/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tatyana Benko</title>
+      <link>/authors/tatyana-benko/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/tatyana-benko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Casey C Neubauer</title>
+      <link>/authors/casey-c-neubauer/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/casey-c-neubauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeffrey D Taft</title>
+      <link>/authors/jeffrey-d-taft/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/jeffrey-d-taft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scott A Upton</title>
+      <link>/authors/scott-a-upton/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/scott-a-upton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> others</title>
+      <link>/authors/others/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ahmet Erdem Sarıyüce</title>
+      <link>/authors/ahmet-erdem-sar%C4%B1yuce/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/ahmet-erdem-sar%C4%B1yuce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alyson Bittner</title>
+      <link>/authors/alyson-bittner/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/alyson-bittner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Anthony V Petyuk</title>
       <link>/authors/anthony-v-petyuk/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/authors/anthony-v-petyuk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audun Myers</title>
+      <link>/authors/audun-myers/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/audun-myers/</guid>
       <description></description>
     </item>
     
@@ -29,6 +205,14 @@
     </item>
     
     <item>
+      <title>Brenda Praggastis</title>
+      <link>/authors/brenda-praggastis/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/brenda-praggastis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Carlos Ortiz Marrero</title>
       <link>/authors/carlos-ortiz-marrero/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -37,10 +221,122 @@
     </item>
     
     <item>
-      <title>Ilya Amburg</title>
-      <link>/authors/ilya-amburg/</link>
+      <title>Christopher Potvin</title>
+      <link>/authors/christopher-potvin/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/authors/ilya-amburg/</guid>
+      <guid>/authors/christopher-potvin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cliff Joslyn</title>
+      <link>/authors/cliff-joslyn/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/cliff-joslyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dan Best</title>
+      <link>/authors/dan-best/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/dan-best/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Best</title>
+      <link>/authors/daniel-best/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-best/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel M Best</title>
+      <link>/authors/daniel-m-best/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-m-best/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dustin Arendt</title>
+      <link>/authors/dustin-arendt/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/dustin-arendt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emilie Purvine</title>
+      <link>/authors/emilie-purvine/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/emilie-purvine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garret Seppala</title>
+      <link>/authors/garret-seppala/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/garret-seppala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gregory Henselman-Petrusek</title>
+      <link>/authors/gregory-henselman-petrusek/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/gregory-henselman-petrusek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helen Jenne</title>
+      <link>/authors/helen-jenne/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/helen-jenne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ilya D Amburg</title>
+      <link>/authors/ilya-d-amburg/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/ilya-d-amburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jackson Warley</title>
+      <link>/authors/jackson-warley/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/jackson-warley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason Niu</title>
+      <link>/authors/jason-niu/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/jason-niu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ji Young Yun</title>
+      <link>/authors/ji-young-yun/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/ji-young-yun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiajia Li</title>
+      <link>/authors/jiajia-li/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/jiajia-li/</guid>
       <description></description>
     </item>
     
@@ -69,6 +365,22 @@
     </item>
     
     <item>
+      <title>Madelyn Shapiro</title>
+      <link>/authors/madelyn-shapiro/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/madelyn-shapiro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Bonicillo</title>
+      <link>/authors/mark-bonicillo/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/mark-bonicillo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mark Raugas</title>
       <link>/authors/mark-raugas/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -81,6 +393,14 @@
       <link>/authors/mirah-shi/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/authors/mirah-shi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molly Baird</title>
+      <link>/authors/molly-baird/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/molly-baird/</guid>
       <description></description>
     </item>
     
@@ -125,18 +445,18 @@
     </item>
     
     <item>
-      <title>Sinan Aksoy</title>
-      <link>/authors/sinan-aksoy/</link>
+      <title>Shruti Shivakumar</title>
+      <link>/authors/shruti-shivakumar/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/authors/sinan-aksoy/</guid>
+      <guid>/authors/shruti-shivakumar/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sinan G Aksoy</title>
-      <link>/authors/sinan-g-aksoy/</link>
+      <title>Sinan Aksoy</title>
+      <link>/authors/sinan-aksoy/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/authors/sinan-g-aksoy/</guid>
+      <guid>/authors/sinan-aksoy/</guid>
       <description></description>
     </item>
     
@@ -149,10 +469,10 @@
     </item>
     
     <item>
-      <title>Stephen J Young</title>
-      <link>/authors/stephen-j-young/</link>
+      <title>Srinivas Aluru</title>
+      <link>/authors/srinivas-aluru/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/authors/stephen-j-young/</guid>
+      <guid>/authors/srinivas-aluru/</guid>
       <description></description>
     </item>
     
@@ -221,14 +541,6 @@
     </item>
     
     <item>
-      <title>Emilie Purvine</title>
-      <link>/authors/emilie-purvine/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/emilie-purvine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Andrew Lumsdaine</title>
       <link>/authors/andrew-lumsdaine/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -245,42 +557,10 @@
     </item>
     
     <item>
-      <title>Brenda Praggastis</title>
-      <link>/authors/brenda-praggastis/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/brenda-praggastis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cliff Joslyn</title>
-      <link>/authors/cliff-joslyn/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/cliff-joslyn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Haesun Park</title>
-      <link>/authors/haesun-park/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/haesun-park/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jesun Firoz</title>
       <link>/authors/jesun-firoz/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/authors/jesun-firoz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Koby Hayashi</title>
-      <link>/authors/koby-hayashi/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/koby-hayashi/</guid>
       <description></description>
     </item>
     
@@ -313,14 +593,6 @@
       <link>/authors/brett-jefferson/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>/authors/brett-jefferson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dustin Arendt</title>
-      <link>/authors/dustin-arendt/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/dustin-arendt/</guid>
       <description></description>
     </item>
     

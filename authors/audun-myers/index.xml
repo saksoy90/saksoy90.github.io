@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audun Myers | Sinan Aksoy</title>
+    <link>/authors/audun-myers/</link>
+      <atom:link href="/authors/audun-myers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Audun Myers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Audun Myers</title>
+      <link>/authors/audun-myers/</link>
+    </image>
+    
+    <item>
+      <title>Malicious Cyber Activity Detection using Zigzag Persistence</title>
+      <link>/publication/myers-2023-malicious/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/myers-2023-malicious/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stepping out of Flatland: Discovering Behavior Patterns as Topological Structures in Cyber Hypergraphs</title>
+      <link>/publication/jenne-2023-stepping/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/jenne-2023-stepping/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
