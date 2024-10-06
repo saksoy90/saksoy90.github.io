@@ -85,6 +85,14 @@
     </item>
     
     <item>
+      <title>autoenconders</title>
+      <link>/tags/autoenconders/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/autoenconders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>cyber security</title>
       <link>/tags/cyber-security/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -121,6 +129,14 @@
       <link>/tags/tensors/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/tags/tensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>topology</title>
+      <link>/tags/topology/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/topology/</guid>
       <description></description>
     </item>
     
@@ -169,14 +185,6 @@
       <link>/tags/markov-chains/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       <guid>/tags/markov-chains/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>topology</title>
-      <link>/tags/topology/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/topology/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>autoenconders | Sinan Aksoy</title>
+    <link>/tags/autoenconders/</link>
+      <atom:link href="/tags/autoenconders/index.xml" rel="self" type="application/rss+xml" />
+    <description>autoenconders</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>autoenconders</title>
+      <link>/tags/autoenconders/</link>
+    </image>
+    
+    <item>
+      <title>Hypergraph Topological Features for Autoencoder-Based Intrusion Detection for Cybersecurity Data</title>
+      <link>/publication/kay-2023-hypergraph/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/kay-2023-hypergraph/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

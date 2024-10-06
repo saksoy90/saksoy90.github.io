@@ -203,14 +203,14 @@
   </url>
   
   <url>
-    <loc>/publication/taft-2023-methods/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/scott-a-upton/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/taft-2023-methods/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -563,6 +563,12 @@
   </url>
   
   <url>
+    <loc>/tags/autoenconders/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/cyber-security/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -588,6 +594,12 @@
   
   <url>
     <loc>/tags/tensors/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/topology/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1035,12 +1047,6 @@
   
   <url>
     <loc>/authors/michael-robinson/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/topology/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

@@ -5,12 +5,28 @@
     <link>/tags/topology/</link>
       <atom:link href="/tags/topology/index.xml" rel="self" type="application/rss+xml" />
     <description>topology</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>topology</title>
       <link>/tags/topology/</link>
     </image>
+    
+    <item>
+      <title>Hypergraph Topological Features for Autoencoder-Based Intrusion Detection for Cybersecurity Data</title>
+      <link>/publication/kay-2023-hypergraph/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/kay-2023-hypergraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malicious Cyber Activity Detection using Zigzag Persistence</title>
+      <link>/publication/myers-2023-malicious/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/myers-2023-malicious/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Topological Approach to Representational Data Models</title>
